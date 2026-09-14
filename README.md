@@ -93,7 +93,7 @@ The dependencies are listed in `requirements.txt`.
 
 ## Author
 
-Your Name
+Maddela Sowmya
 
 ## Project Type
 
