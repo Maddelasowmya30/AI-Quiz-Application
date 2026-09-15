@@ -52,7 +52,7 @@ AI_Quiz_Application/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Maddelasowmya30/AI Quiz Application.git
 ```
 
 ### 2. Open the project folder
